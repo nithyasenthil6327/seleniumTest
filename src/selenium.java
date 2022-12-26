@@ -27,6 +27,8 @@ public static void main(String[] args) {
 	
 	driver . manage().window().maximize();
 	
+	System.out.println("updated code by nithya");
+	
 	//or
   // Options manage = driver.manage();
    //Window window = manage.window();
